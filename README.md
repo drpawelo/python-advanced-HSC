@@ -29,7 +29,7 @@ TODO
 - importing data, saving data
 - filtering and mapping data
 
-## Week 3: Infrastructure: Data, File
+## Week 3: Infrastructure: Data, File
 TODO
 
 ### Topics
@@ -45,4 +45,4 @@ TODO
 - UX, Clients, Business
 - Graphs, visualisation
 
-Week 5: Own project
+## Week 5: Own project
