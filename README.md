@@ -1,8 +1,12 @@
-# python-advanced-HSC
+# Format of the course:
+- each week there is content to attempt before the class
+- each week there is a 2h pair-programming
+- in the days after the pair programming lab there are number of 30 minute slots where students can get 1-on-1 mentoring and help
+
+# Content
 
 ## Week 1: Basics of Python
-
-Number of topics is presented in a self-assessed notebook. Students mark their understanding of each subject as 0, 1 , 2 or 3. (Don't Know, Very Bas, ) They have an option to watch videos and complete intro-course notebooks abotu topics they are uncertain about.
+Number of topics is presented in a self-assessed notebook. Students mark their understanding of each subject on scale 0-3 (Don't Know What it is, Quite Basic, I know it well, I can do it in my sleep). They have an option to watch videos and complete intro-course notebooks abotu topics they are uncertain about. Self-assessment includes number of C-B-A tasks. Then there is a lab combining all of that knowledge. 
 
 ### Topics
 - variables
@@ -18,14 +22,25 @@ Number of topics is presented in a self-assessed notebook. Students mark their u
 - *objects
 - *higher order functions
 
-Week 2: Pandas & Numpys
-- wrangling data
+## Week 2: Using Pandas and Numpys
+TODO
 
-Week 3: Infrastructure: Data, File
+### Topics
+- importing data, saving data
+- filtering and mapping data
+
+## Week 3: Infrastructure: Data, File
+TODO
+
+### Topics
+- importing data, saving data
 - APIs, JSON, CSV, SQL, Files
 - Multiple Files, Github, 
 
-Week 4: Interactive Dashboards
+## Week 4: Interactive Dashboards
+TODO 
+
+### Topics
 - Shiny Python, bithub pages
 - UX, Clients, Business
 - Graphs, visualisation
