@@ -7,26 +7,3 @@
     {"name":"Aoife", "age":25, "department":"Oncology",  "shifts": ["night"]}
 	]
 }
-
-
-- multidimensional arrays
-- How random numbers are generated
-- the whole new way of referencing items in Numpy (not my_list[0][3] but my_array[0,3])
-- generating and reshaping items into dimensions
-- stacking and splitting
-- mini-diary ⭐️⭐️⭐️❓
-
-Pandas
-- DataDrame = Dict + Excel
-- accessing, editing and sorting IFs (.loc)
-- changing with functions: mapping and applying
-- creating new columns with assign, replace, drop
-- grouping, indexes and renaming
-- mini-diary ⭐️⭐️⭐️❓
-
-Applications
-- importing files: CSV and JSON. Local and Remote
-- Folding data (Long, Wide)
-- Fixing Missing Values
-- Visualisation
-- mini-diary ⭐️⭐️⭐️❓
